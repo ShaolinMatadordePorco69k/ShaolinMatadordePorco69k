@@ -22,7 +22,6 @@ Estudante de **Engenharia da Computação** na Universidade Positivo, em Curitib
 
 - C e Python (nas disciplinas de algoritmos e programação)
 - Arduino (projeto de sensor de movimento com fita de LED)
-- Lua com LÖVE2D (projeto pessoal de jogo)
 - Git e GitHub
 
 **Que eu quero estudar:**
