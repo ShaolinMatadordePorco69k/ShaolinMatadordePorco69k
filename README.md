@@ -1,6 +1,6 @@
 # Olá, eu sou o João Alexandre 👋
 
-Estudante de **Engenharia da Computação** na Universidade Positivo, em Campo Largo/Curitiba (PR). Trabalho com TI e já tenho experiência prática com formatação, montagem e suporte de hardware. Agora estou usando a faculdade para somar a essa base a parte de software, eletrônica e inteligência artificial.
+Estudante de **Engenharia da Computação** na Universidade Positivo, em Curitiba (PR). Trabalho com TI e já tenho experiência prática com formatação, montagem e suporte de hardware. Agora estou usando a faculdade para somar a essa base a parte de software, eletrônica e inteligência artificial.
 
 ## 🎯 Objetivos profissionais
 
